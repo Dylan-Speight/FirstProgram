@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d02b71b-f635-4eb1-9fe6-9691ef2f659b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +85,29 @@
       <option name="presentableId" value="Default" />
       <updated>1579579621072</updated>
     </task>
+    <task id="LOCAL-00001" summary="gitignore fix">
+      <created>1579584589517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579584589517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579579971368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579579971368" />
+    <state x="1053" y="139" key="CommitChangelistDialog2" timestamp="1579584587940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1053" y="139" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1579584587940" />
     <state x="314" y="301" key="FileChooserDialogImpl" timestamp="1579581893959">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
